@@ -12,4 +12,4 @@ Run the first 3 code cells in the colab file in order
 Run the very bottom code cell and upload some images of your choice and see if they're a cat or an anime character
 
 # Known issues
-Because our dataset for the anime characters only use portraits with white backgrounds, it can often confuse intricate backgrounds that match an anime character's design well with the shape of a cat, thus causing it to guess that your image may be a cat.
+Because our dataset for the anime characters only use portraits with white backgrounds, it can often confuse intricate backgrounds that match an anime character's design well with the shape of a cat, thus causing it to guess that your image may be a cat. Transparent PNGs also cause the program to crash, but you can easily rerun and use snipping tool instead.
